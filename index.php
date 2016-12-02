@@ -534,3 +534,5 @@ window.onload = function () {
 }
 $site = new GameBoy();
 ?>
+
+memes
